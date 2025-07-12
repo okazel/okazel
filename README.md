@@ -1,5 +1,4 @@
 # Hello, world! 
-## If it doesn't challenge, it doesn't change you.
 
 
 
