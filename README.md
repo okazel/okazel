@@ -1,5 +1,5 @@
 # Hello, world! 
-My name is T 
+Currently, taking the Odin project course ... let's connect! 
 
 
 
